@@ -192,6 +192,24 @@ span {
     margin: 2rem 0 3rem;
 }
 
+strong {
+    color: var(--main-color);
+}
+
+.about-contents p {
+    font-size: 1.8rem;
+}
+
+.about-contents h1 {
+    font-size: large;
+    line-height: 1.2;
+    color: var(--main-color);
+}
+
+.about-contents .btn {
+    margin: 2rem 0 3rem;
+}
+
 .services h2 {
     margin-bottom: 5rem;
 }
