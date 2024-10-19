@@ -196,6 +196,10 @@ strong {
     color: var(--main-color);
 }
 
+.portfolios {
+    background: var(--bg-color);
+}
+
 .about-contents p {
     font-size: 1.8rem;
 }
