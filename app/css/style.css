@@ -204,6 +204,15 @@ strong {
     font-size: 1.8rem;
 }
 
+.about-contents ol {
+    padding-left: 10rem;
+}
+
+.about-contents ol li {
+    font-size: 1.8rem;
+    list-style-type: disc;
+}
+
 .about-contents h1 {
     font-size: large;
     line-height: 1.2;
