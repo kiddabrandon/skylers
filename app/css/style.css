@@ -223,6 +223,24 @@ strong {
     margin: 2rem 0 3rem;
 }
 
+.aboutzz ol {
+    padding-left: 2rem;
+}
+
+.aboutzz ol li {
+    font-size: 1.8rem;
+    list-style-type: disc;
+}
+
+.aboutzz p {
+    font-size: 2rem;
+}
+
+.aboutzz a {
+    text-decoration: none;
+    color: var(--main-color);
+  }
+
 .services h2 {
     margin-bottom: 5rem;
 }
