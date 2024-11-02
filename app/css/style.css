@@ -350,7 +350,7 @@ strong {
     transition: .5s ease;
 }
 
-.portfolio-boxzz video {
+.portfolio-boxzz iframe {
     width: 100%;
     transition: .5s ease;
 }
